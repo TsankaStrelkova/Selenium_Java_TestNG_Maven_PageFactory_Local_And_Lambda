@@ -32,7 +32,7 @@ In this new package add several packages
 -	managers (here DriverManager.java and FileReader.java will be placed)
 -	listeners (here ExtentListener.java and ExtentManager.java will be placed to implement extent reports)
 -	testcases (all java classes with test cases will be placed here)
--	utilities (DataUtil.java some class helpful for dataprovider , ExcelReader.java )
+-	utilities (DataUtil.java some class helpful for dataprovider , ExcelReader.java, enumerators EnvironmentType.java and DriverType.java )
 
 7.	In the src/test/java/base  add BaseTest.java – it is a class to initialize driver
 
