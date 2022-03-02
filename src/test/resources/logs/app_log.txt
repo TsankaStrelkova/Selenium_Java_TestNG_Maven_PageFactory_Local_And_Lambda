@@ -1,0 +1,3 @@
+INFO    2022-03-02 09:56:46,969 [main] base.BaseTest  - BEFORE METHOD - Driver init for test:SORTCATEGORY
+INFO    2022-03-02 09:56:52,906 [main] base.BaseTest  - Navigating to the URL : https://www.dodax.ca/
+INFO    2022-03-02 09:57:00,024 [main] base.BaseTest  - AFTER METHOD - Test Execution completed!!!SORTCATEGORY
